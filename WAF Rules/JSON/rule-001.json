@@ -23,7 +23,7 @@
                     }
                   },
                   "PositionalConstraint": "EXACTLY",
-                  "SearchString": "apple",
+                  "SearchString": "pineapple",
                   "TextTransformations": [
                     {
                       "Type": "NONE",
